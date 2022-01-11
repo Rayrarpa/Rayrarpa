@@ -1,13 +1,17 @@
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/808326468924473354/929863420843548672/Rafael_Delforge.png">
-  
-  <br><br>
+## Hello! Welcome to my Github Profile
+### Hi my name is Rafael, I like programming, playing video games and watching anime
+### I'm still in Elementary School, but I dream of studying Computer Science
 
+<hr>
 
-  ## Hello! Welcome to my Github Profile
-  ### Hi my name is Rafael, I like programming, playing video games and watching anime
-  ### I'm still in Elementary School, but I dream of studying Computer Science
+### I study HTML, CSS and JavaScript
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
 <hr>
 
 <div align="center">
