@@ -1,17 +1,29 @@
 ## Hello! Welcome to my Github Profile
-### Hi my name is Rafael, I like programming, playing video games and watching anime
-### I'm still in Elementary School, but I dream of studying Computer Science
+### Hi my name is Rafael, I study web development, currently I'm more focused on the front-end area,<br> but lately I've also been studying the back-end through NodeJS
+### I'm still in elementary school, after finishing school, I intend to study Computer Science
 
 <hr>
+<br>
 
-### I study HTML, CSS and JavaScript
+## 📚 Skills
+### Languages:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Javascript</li>
+</ul>
 
+### Frameworks/Libraries:
+<ul>
+  <li>NodeJS</li>
+ </ul>
+
+### Tools:
+<ul>
+  <li>Git/Github</li>
+</ul>
+<br>
 <hr>
 
 <div align="center">
